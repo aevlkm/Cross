@@ -1,6 +1,6 @@
 # Projet
 
-Celui-ci est une mise en pratique des connaissances acquises lors du [bootcamp Jedha - Data Anlysis Full Stack](https://www.jedha.co/formations/data-analysis-fullstack) <br>
+Celui-ci est une mise en pratique des connaissances acquises lors du [bootcamp Jedha - Data Analysis Full Stack](https://www.jedha.co/formations/data-analysis-fullstack) <br>
 
 N'hésitez pas à consulter le powerpoint qui reprend sa [présentation](https://www.jedha.co/formations/data-analysis-fullstack) 🙂
 
