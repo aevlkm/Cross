@@ -1,8 +1,8 @@
 # Projet
 
-Celui-ci est une mise en pratique des connaissances acquises lors du [bootcamp Jedha - Data Analysis Full Stack](https://www.jedha.co/formations/data-analysis-fullstack) <br>
+Celui-ci est une mise en pratique des connaissances acquises lors du <a href="https://www.jedha.co/formations/data-analysis-fullstack" target="_blank">bootcamp Jedha - Data Analysis Full Stack</a> <br>
 
-N'hésitez pas à consulter le powerpoint qui reprend sa [présentation](https://www.jedha.co/formations/data-analysis-fullstack) 🙂
+N'hésitez pas à consulter le powerpoint qui reprend sa [présentation](00_Presentation/Les_opérations_de_sauvetage_en_mer.pptx?raw=true) 🙂
 
 # Cross
 
