@@ -2,7 +2,7 @@
 
 Celui-ci est une mise en pratique des connaissances acquises lors du [bootcamp Jedha - Data Analysis Full Stack](https://www.jedha.co/formations/data-analysis-fullstack) <br>
 
-N'hésitez pas à consulter le powerpoint qui reprend sa [présentation](Les_opérations_de_sauvetage_en_mer.pptx?raw=true) 🙂
+N'hésitez pas à consulter le powerpoint qui reprend sa [présentation](00_Presentation/Les_opérations_de_sauvetage_en_mer.pptx?raw=true) 🙂
 
 # Cross
 
