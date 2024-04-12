@@ -1,10 +1,10 @@
 # ⛵ Projet
 
-<img src="https://raw.githubusercontent.com/aevlkm/Cross/main/99_Pictures/Backgrounds/zodiac_snsm" alt="Zodiac SNSM" width="80%">
-
 Celui-ci est une mise en pratique des connaissances acquises lors du <a href="https://www.jedha.co/formations/data-analysis-fullstack" target="_blank">bootcamp Jedha - Data Analysis Full Stack</a> <br>
 
 N'hésitez pas à consulter le powerpoint qui reprend sa [présentation](00_Presentation/Les_opérations_de_sauvetage_en_mer.pptx?raw=true) 🙂
+
+<img src="https://raw.githubusercontent.com/aevlkm/Cross/main/99_Pictures/Backgrounds/zodiac_snsm.jpg" alt="Zodiac SNSM" width="55%">
 
 # 🛟 Cross
 
