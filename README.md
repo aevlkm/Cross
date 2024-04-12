@@ -1,10 +1,14 @@
-# Projet
+# ⛵ Projet
+
+<img src="https://raw.githubusercontent.com/aevlkm/Cross/main/99_Pictures/Backgrounds/zodiac_snsm" alt="Zodiac SNSM" width="80%">
 
 Celui-ci est une mise en pratique des connaissances acquises lors du <a href="https://www.jedha.co/formations/data-analysis-fullstack" target="_blank">bootcamp Jedha - Data Analysis Full Stack</a> <br>
 
 N'hésitez pas à consulter le powerpoint qui reprend sa [présentation](00_Presentation/Les_opérations_de_sauvetage_en_mer.pptx?raw=true) 🙂
 
-# Cross
+# 🛟 Cross
+
+![Logo all](99_Pictures/Logos/all.jpg)
 
 ### "Analyser, Prévoir, Agir"
 
@@ -19,7 +23,24 @@ Et, en complément, par la proposition d'un outil de machine learning. <br>
 Alimenté par les statistiques collectées, son but est d'évaluer au mieux la criticité d'une situation à partir une liste de critères définis. <br>
 Se positionnant comme une aide à la décision, il trouve sa place notamment en terme de priorisation dans les interventions. <br>
 
-# Sources
+# 🗂 Arborescence
+
+<img src="https://raw.githubusercontent.com/aevlkm/Cross/main/99_Pictures/Backgrounds/vedette_hélico.jpg" alt="Vedette hélico" width="47.8%">
+ 
+**DOSSIER** | **CONTENU** | **FORMAT** 
+:---|:--- |:---
+ 00_Presentation | Présentation | .pptx 
+ 01_Data_input | Datasets utilisés pour le projet | .csv
+ 02_Data_output | Dataset consolidé | .csv
+ 03_Python | Data Processing |.ipynb
+ 04_Powerbi | Dashboard et Analyse | .pbix
+ 05_Streamlit | Modèle de machine learning |.py
+ 99_Pictures | Bibliothèque de photos utilisées | .jpg
+
+
+ 
+
+# ℹ️ Sources
 
 L'analyse proposée repose sur un dataset global et consolidé. <br>
 Cinq jeux de données ont été nécessaires à son élaboration. <br>
@@ -29,7 +50,7 @@ Vous les trouverez sur :
 - https://www.data.gouv.fr/en/datasets/operations-coordonnees-par-les-cross
 - https://carte.snosan.fr/
 
-# Dataset
+# 🔎 Dataset
 
 **NOM** | **SIGNIFICATION** 
 :---|:---
@@ -48,7 +69,7 @@ Vous les trouverez sur :
  departement | Département où se déroule l'opération 
  latitude | Latitude de l'opération au format EPSG:4326 WGS84 
  longitude | Longitude de l'opération au format EPSG:4326 WGS84 
- distance_cote_milles_nautiques_cat | Catégorie de la distance. 
+ distance_cote_milles_nautiques_cat | Catégorie de la distance 
  distance_cote_milles_nautiques | La distance entre la plus proche côte ou frontière terrestre en territoire français en milles nautiques. Cette distance peut être égale à 0 si l'opération se déroule très près des côtes ou à l'intérieur des terres en cas de fausse alerte. La distance peut être très élevée lors d'un déclenchement d'une balise par erreur ou en cas de coordination d'une opération impliquant un flotteur français en eaux internationales. 
  vent_direction_categorie | Nom de la direction du vent. La direction nord-est est par exemple comprise entre 22,5 degrés et 67,5 degrés. 
  vent_force | Force du vent selon l'échelle de Beaufort 
